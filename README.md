@@ -48,7 +48,7 @@ me.say_hi()
 
 <div align="center">
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=addiii07&theme=dracula&column=7&margin-w=15&margin-h=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=addiii07&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true)
 
 </div>
 
@@ -99,17 +99,25 @@ me.say_hi()
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,typescript,html,css,angular,fastapi" />
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
 ### 🤖 AI/ML & Libraries  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/🤗_Transformers-FFCB05?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
+[![Transformers](https://img.shields.io/badge/🤗_Transformers-FFCB05?style=for-the-badge)](https://huggingface.co/transformers/)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)](https://ollama.ai/)
 
 ### 🗄️ Databases & Cloud  
-<img src="https://skillicons.dev/icons?i=postgresql,aws,docker" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
 
 </div>
 
@@ -150,7 +158,7 @@ me.say_hi()
 🌱 **Learning:** Advanced LLM techniques and cloud architecture  
 👯 **Looking to collaborate on:** Open source AI projects  
 💬 **Ask me about:** Python, Angular, AI/ML, or anything tech!  
-⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes! 🧩  
+⚡ **Fun fact:** I can solve a Rubik's cube in under 1 minute! 🧩  
 
 </div>
 
@@ -161,9 +169,9 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityavijaysingh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aditya_vijay07)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ReONx07)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addiii07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.vijay.singh@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityavijay929@gmail.com)
 
 </div>
 
@@ -173,84 +181,13 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<br/>
-
-## 🎯 My Goals for 2025
-
-<div align="center">
-
-🚀 **Build and deploy 5 AI-powered web applications**  
-📚 **Master advanced LangChain and vector databases**  
-🌟 **Contribute to 10 open source projects**  
-🎤 **Speak at 2 tech conferences**  
-📝 **Write 20 technical blog posts**  
-
-</div>
-
-<br/>
-
-## 📚 Latest Blog Posts
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-🔗 **Building LLM Applications with LangChain and FastAPI**  
-🔗 **Angular Performance Optimization Tips**  
-🔗 **AI in Web Development: The Future is Now**  
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
-<br/>
-
-## 🎵 Vibes & Music
-
-<div align="center">
-
-🎧 **Currently listening to:** Lo-fi Hip Hop while coding  
-🎶 **Favorite coding playlist:** Synthwave & Electronic  
-🎵 **Pump-up song:** "Eye of the Tiger" for debugging sessions  
-
-</div>
-
-<br/>
-
-## 🎮 Fun Zone
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Fun Facts About Me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-🎯 I once solved 100 coding problems in a single day  
-🏸 Badminton enthusiast - love those quick reflexes!  
-🍕 Pizza is my debugging fuel  
-🌮 Tacos are my reward for successful deployments  
-🎲 Board game strategist in my free time  
-
-</div>
-
-<br/>
-
-## 💝 Support My Work
-
-<div align="center">
-
-If you like my projects and want to support my work:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adityavijay)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/adityavijay)
+<img src="https://raw.githubusercontent.com/addiii07/addiii07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 <br/>
 
 <div align="center">
-
-### 💬 Let's Build Something Amazing Together!
 
 <img src="https://komarev.com/ghpvc/?username=addiii07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
