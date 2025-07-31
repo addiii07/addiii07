@@ -6,12 +6,15 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align = "center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
 
 ## 🚀 About Me
 I'm a Full-Stack Software Engineer at **RV Solutions Pvt. Ltd.** (Aug 2023 – Present), focused on Generative AI and modern web development. I build scalable, AI-powered applications using Angular, FastAPI, and Python-based ML frameworks.
 
-🏆 **Best Performance Award 2024**  
+🏆 **Best Performance Award 2024** - IT Software 
 💡 Passionate about clean code and real-world problem-solving. Always learning, always building! 😄
 
 ## 🎓 Education
