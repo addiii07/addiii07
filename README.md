@@ -14,7 +14,7 @@
 ## 🚀 About Me
 I'm a Full-Stack Software Engineer at **RV Solutions Pvt. Ltd.** (Aug 2023 – Present), focused on Generative AI and modern web development. I build scalable, AI-powered applications using Angular, FastAPI, and Python-based ML frameworks.
 
-🏆 **Best Performance Award 2024** - IT Software
+🏆 **Best Performance Award 2024** - IT Software <br>
 💡 Passionate about clean code and real-world problem-solving. Always learning, always building! 😄
 
 ## 🎓 Education
