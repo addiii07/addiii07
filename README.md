@@ -14,7 +14,7 @@
 ## 🚀 About Me
 I'm a Full-Stack Software Engineer at **RV Solutions Pvt. Ltd.** (Aug 2023 – Present), focused on Generative AI and modern web development. I build scalable, AI-powered applications using Angular, FastAPI, and Python-based ML frameworks.
 
-🏆 **Best Performance Award 2024** - IT Software 
+🏆 **Best Performance Award 2024** - IT Software
 💡 Passionate about clean code and real-world problem-solving. Always learning, always building! 😄
 
 ## 🎓 Education
@@ -55,12 +55,6 @@ I'm a Full-Stack Software Engineer at **RV Solutions Pvt. Ltd.** (Aug 2023 – P
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addiii07&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addiii07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=addiii07&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
 </div>
 
 ## 📈 Contribution Activity
