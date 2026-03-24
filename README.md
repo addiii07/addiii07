@@ -70,6 +70,6 @@ Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.**
 
 ![Profile views](https://komarev.com/ghpvc/?username=addiii07&label=Profile%20views&color=0e75b6&style=flat)
 
-### 💭 *Just getting started 📈 | Open to ideas & collaborations ⭐*
+### *Just getting started 📈 | Open to ideas & collaborations ⭐*
 
 </div>
