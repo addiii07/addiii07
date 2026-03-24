@@ -14,7 +14,7 @@
 ## 🚀 About Me
 I'm currently working as an **AI/ML Engineer – Data Science at FreechargeBiz by Axis Bank** (March 2026 – Present), focused on building scalable AI/ML systems in the fintech domain.
 
-Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.** (February 2024 – March 2026), where I led the development of AI-driven and full-stack solutions for internal teams and external clients.
+Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.** (August 2023 – March 2026), where I led the development of AI-driven and full-stack solutions for internal teams and external clients.
 
 🏆 **Best Performance Award 2024** - IT Software <br>
 💡 Passionate about Generative AI, LLMs, and real-world problem-solving. Always building, always learning 🧠🚀
