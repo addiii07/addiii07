@@ -25,7 +25,7 @@ Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.**
 🎓 **B.Tech in Computer Science & Engineering** (AI Specialization)  
 📊 **CGPA: 8.44** | 🗓️ 2020 – 2024
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 ### 💻 Core Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,15 +36,15 @@ Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.**
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 Generative AI & AI/ML
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
-![Fine Tuning](https://img.shields.io/badge/Fine--Tuning-green?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-Model-yellow?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector-Database-purple?style=for-the-badge)
-![Agentic Workflows](https://img.shields.io/badge/Agentic-Workflows-red?style=for-the-badge)
-![Function Calling](https://img.shields.io/badge/Autonomous-Function--Calling-grey?style=for-the-badge)
+![RAG Pipeline](https://img.shields.io/badge/RAG%20Pipeline-0A66C2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-2E7D32?style=for-the-badge)
+![Embedding Models](https://img.shields.io/badge/Embedding%20Models-F9A825?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-6A1B9A?style=for-the-badge)
+![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-C62828?style=for-the-badge)
+![Autonomous Function Calling](https://img.shields.io/badge/Autonomous%20Function%20Calling-37474F?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 
@@ -58,8 +58,8 @@ Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.**
 
 ### 🗄️ Databases & Security
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Auth-black?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/RBAC-Access_Control-blue?style=for-the-badge)
+![JWT Authentication](https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge)
+![Role-Based Access Control](https://img.shields.io/badge/RBAC%20(Role--Based%20Access%20Control)-0A66C2?style=for-the-badge)
 
 ### ⚙️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
