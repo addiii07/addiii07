@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Generative+AI+Enthusiast;LLM+Applications+Builder;Angular+%26+FastAPI+Developer;Always+Learning+New+Tech!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%E2%80%93+Data+Science;Generative+AI+%26+LLM+Systems+Builder;RAG%2C+Agents+%26+Scalable+AI+Solutions;Python%2C+FastAPI%2C+Angular;Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,10 +12,12 @@
 
 
 ## 🚀 About Me
-I'm a Full-Stack Software Engineer at **RV Solutions Pvt. Ltd.** (Aug 2023 – Present), focused on Generative AI and modern web development. I build scalable, AI-powered applications using Angular, FastAPI, and Python-based ML frameworks.
+I'm currently working as an **AI/ML Engineer – Data Science at FreechargeBiz by Axis Bank**, focused on building scalable AI/ML systems in the fintech domain.
+
+Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.**, where I led the development of AI-driven and full-stack solutions for internal teams and external clients.
 
 🏆 **Best Performance Award 2024** - IT Software <br>
-💡 Passionate about clean code and real-world problem-solving. Always learning, always building! 😄
+💡 Passionate about Generative AI, LLMs, and real-world problem-solving. Always building, always learning 🧠🚀
 
 ## 🎓 Education
 
