@@ -52,20 +52,6 @@ Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addiii07&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addiii07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=addiii07&theme=tokyo-night&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ## 🌐 Let's Connect
 
@@ -84,8 +70,8 @@ Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.**
 
 ![Profile views](https://komarev.com/ghpvc/?username=addiii07&label=Profile%20views&color=0e75b6&style=flat)
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+### 💭 *"Work in progress."*
 
-**⭐ Thanks for visiting! Let's connect and build something amazing together! 🚀**
+**Open to ideas & collaborations.**⭐
 
 </div>
