@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%E2%80%93+Data+Science;Generative+AI+%26+LLM+Systems+Builder;RAG%2C+Agents+%26+Scalable+AI+Solutions;Python%2C+FastAPI%2C+Angular;Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%E2%80%93+Data+Science;Generative+AI+%26+LLMs;RAG+%26+AI+Agents;Building+Scalable+AI+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,8 +70,6 @@ Previously, I worked as a **Senior Software Engineer at RV Solutions Pvt. Ltd.**
 
 ![Profile views](https://komarev.com/ghpvc/?username=addiii07&label=Profile%20views&color=0e75b6&style=flat)
 
-### 💭 *"Work in progress."*
-
-**Open to ideas & collaborations.**⭐
+### 💭 *Just getting started 📈 | Open to ideas & collaborations ⭐*
 
 </div>
